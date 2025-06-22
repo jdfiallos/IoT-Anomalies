@@ -1,0 +1,21 @@
+timestamp,device_id,temperature,packets_sent,alert
+2025-06-21T21:48:14.220729,device_normal_01,27.06,85,
+2025-06-21T21:48:15.247076,device_normal_01,22.83,66,
+2025-06-21T21:48:16.260326,device_normal_01,26.3,70,
+2025-06-21T21:48:17.278061,device_normal_01,26.15,76,
+2025-06-21T21:48:18.296231,device_normal_01,24.29,87,
+2025-06-21T21:48:19.316005,device_normal_01,26.6,92,
+2025-06-21T21:48:20.339977,device_normal_01,23.85,61,
+2025-06-21T21:48:21.359354,device_normal_01,25.28,95,
+2025-06-21T21:48:22.384271,device_normal_01,27.42,60,
+2025-06-21T21:48:23.404269,device_normal_01,24.2,70,
+2025-06-21T21:48:36.835824,device_anomal_99,94.0,982,High temperature!
+2025-06-21T21:48:37.855849,device_anomal_99,86.33,586,High temperature!
+2025-06-21T21:48:38.874818,device_anomal_99,87.11,802,High temperature!
+2025-06-21T21:48:39.897724,device_anomal_99,89.26,540,High temperature!
+2025-06-21T21:48:40.919825,device_anomal_99,85.64,945,High temperature!
+2025-06-21T21:48:41.940472,device_anomal_99,86.73,544,High temperature!
+2025-06-21T21:48:42.961386,device_anomal_99,93.61,649,High temperature!
+2025-06-21T21:48:43.982593,device_anomal_99,88.41,928,High temperature!
+2025-06-21T21:48:45.007139,device_anomal_99,91.48,834,High temperature!
+2025-06-21T21:48:46.025735,device_anomal_99,91.85,771,High temperature!

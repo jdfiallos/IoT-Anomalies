@@ -2,7 +2,7 @@ import requests
 import time
 import random
 
-API_KEY = "SECRET123"
+API_KEY = "token456"
 URL = "http://127.0.0.1:5000/data"
 HEADERS = {"Authorization": f"Bearer {API_KEY}"}
 
